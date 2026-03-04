@@ -5,7 +5,7 @@
 </p>
 
 ### 🛡️ The Mission
-I am a **relentless technology enthusiast** and CSE student operating at the intersection of **Agentic AI**, **Cybersecurity**, and **Distributed Systems**. I thrive on high-friction challenges and turning complex patterns into robust, production-ready code.
+I am a **relentless technology enthusiast** and CSE student operating at the intersection of **Agentic AI**, **Cybersecurity** , **Machine Learning** , and **Distributed Systems**. I thrive on high-friction challenges and turning complex patterns into robust, production-ready code.
 
 ---
 
