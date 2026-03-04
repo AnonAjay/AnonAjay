@@ -33,7 +33,7 @@ I am a **relentless technology enthusiast** and CSE student operating at the int
 
 ### 📊 System Status
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnonAjay&show_icons=true&theme=tokyonight&hide_border=true" alt="AnonAjay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnonAjay&show_icons=true&theme=tokyonight&hide_border=true" alt="AnonAjay's GitHub Stats" />
 </p>
 
 ---
