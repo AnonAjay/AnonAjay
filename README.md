@@ -40,7 +40,7 @@ I am a **relentless technology enthusiast** and CSE student operating at the int
 
 ### 📫 Secure a Connection
 - **LinkedIn:** [www.linkedin.com/in/ajay-preet-singh-1b0886343]
-- **Discord:** [discord.com/users/1015190503320465408]
+- **Discord:** [https://discord.com/users/1015190503320465408]
 - **X (Twitter):** [https://x.com/Anon_Ajay]
 
 <p align="right">(Binary is temporary, code is forever.)</p>
