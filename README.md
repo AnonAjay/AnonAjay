@@ -13,7 +13,7 @@ I am a **relentless technology enthusiast** and CSE student operating at the int
 - 🔭 **I’m currently working on:**
   - **AgentShield:** A security framework for agentic AI to mitigate prompt injection and memory poisoning.
   - **Viora:** An AI-powered medical assistance application (Imagine Cup).
-  - **Rook:** [Insert brief one-line description of Rook here].
+  - **Rook:** A high-performance project focused on generating high value info on digital content and businesses .
 - 🌱 **I’m currently learning:** **DevOps** (Docker/K8s) and the convergence of **AI with Blockchain** for decentralized intelligence.
 - 👯 **I’m looking to collaborate on:** Innovative Open Source projects in AI Security or High-Performance Computing.
 - 💬 **Ask me about:** Java Backend, React Ecosystem, or the underlying logic of Agentic Workflows.
@@ -39,8 +39,10 @@ I am a **relentless technology enthusiast** and CSE student operating at the int
 ---
 
 ### 📫 Secure a Connection
-- **LinkedIn:** [www.linkedin.com/in/ajay-preet-singh-1b0886343]
-- **Discord:** [https://discord.com/users/1015190503320465408]
-- **X (Twitter):** [https://x.com/Anon_Ajay]
+<p align="left">
+<a href="http://www.linkedin.com/in/ajay-preet-singh-1b0886343"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Anon_Ajay"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="https://discord.com/users/1015190503320465408"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-<p align="right">(Binary is temporary, code is forever.)</p>
+<p align="right">*(Binary is temporary, code is forever.)*</p>
