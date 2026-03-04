@@ -40,7 +40,7 @@ I am a **relentless technology enthusiast** and CSE student operating at the int
 
 ### 📫 Secure a Connection
 <p align="left">
-<a href="http://www.linkedin.com/in/ajay-preet-singh-1b0886343"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://www.linkedin.com/in/anonajay"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Anon_Ajay"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="https://discord.com/users/1015190503320465408"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
