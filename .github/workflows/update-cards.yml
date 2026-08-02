@@ -3,16 +3,13 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Generate stats card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
@@ -20,7 +17,6 @@ jobs:
           options: 'username=AnonAjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=8E2DE2'
           path: profile/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
-
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
@@ -28,14 +24,15 @@ jobs:
           options: 'username=AnonAjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B983FF'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: AnonAjay
-          path: profile/trophy.svg
+          file: profile/trophy.svg
+          theme: tokyonight
+          no-frame: true
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
