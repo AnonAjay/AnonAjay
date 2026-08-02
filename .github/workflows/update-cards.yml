@@ -33,7 +33,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: AnonAjay
-          output_path: profile/trophy.svg
+          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Commit cards
