@@ -62,7 +62,7 @@ I'm a **relentless technology enthusiast** and CSE student operating at the inte
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnonAjay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B983FF&icon_color=8E2DE2" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnonAjay&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=B983FF" />
+<img height="165" src="https://streak-stats.demolab.com/?user=AnonAjay&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=B983FF" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonAjay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B983FF" />
 
