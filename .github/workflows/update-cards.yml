@@ -31,7 +31,7 @@ jobs:
           file: profile/trophy.svg
           theme: tokyonight
           no-frame: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit cards
         run: |
