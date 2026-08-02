@@ -71,7 +71,7 @@ I'm a **relentless technology enthusiast** and CSE student operating at the inte
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnonAjay&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="profile/trophy.svg" />
 </div>
 
 ### 🐍 Contribution Snake
