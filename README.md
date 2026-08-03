@@ -84,6 +84,8 @@ I'm a **relentless technology enthusiast** and CSE student operating at the inte
 
 <div align="center">
 
+<img src="profile/ascii-banner.png" />
+
 *(Binary is temporary, code is forever.)*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" />
