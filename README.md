@@ -3,9 +3,6 @@
 <!-- Animated gradient banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Ajay%20Preet%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Secure%20Agentic%20AI%20and%20Medical%20Solutions&descAlignY=55&descSize=18" />
 
-<!-- Purple ASCII art -->
-<img src="profile/ascii-banner.svg" />
-
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&pause=1000&color=B983FF&center=true&vCenter=true&width=750&size=14&lines=Agentic+AI+%7C+Security+Researcher;Full-Stack+%2B+ML+Engineer;Building+Viora+%7C+AgentShield+%7C+Rook;CSE+%40+2027)](https://git.io/typing-svg)
 
