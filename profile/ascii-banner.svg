@@ -1,0 +1,23 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#4A00E0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .ascii {
+      font-family: 'Courier New', Consolas, Menlo, monospace;
+      font-size: 16px;
+      fill: url(#asciiGrad);
+      white-space: pre;
+      text-anchor: middle;
+    }
+  </style>
+  <text x="450" y="25" class="ascii"> █████╗ ███╗   ██╗ ██████╗ ███╗   ██╗ █████╗      ██╗ █████╗ ██╗   ██╗</text>
+  <text x="450" y="45" class="ascii">██╔══██╗████╗  ██║██╔═══██╗████╗  ██║██╔══██╗     ██║██╔══██╗╚██╗ ██╔╝</text>
+  <text x="450" y="65" class="ascii">███████║██╔██╗ ██║██║   ██║██╔██╗ ██║███████║     ██║███████║ ╚████╔╝ </text>
+  <text x="450" y="85" class="ascii">██╔══██║██║╚██╗██║██║   ██║██║╚██╗██║██╔══██║██   ██║██╔══██║  ╚██╔╝  </text>
+  <text x="450" y="105" class="ascii">██║  ██║██║ ╚████║╚██████╔╝██║ ╚████║██║  ██║╚█████╔╝██║  ██║   ██║   </text>
+  <text x="450" y="125" class="ascii">╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝   </text>
+</svg>
