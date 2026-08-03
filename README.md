@@ -84,7 +84,7 @@ I'm a **relentless technology enthusiast** and CSE student operating at the inte
 
 <div align="center">
 
-<img src="profile/ascii-banner.png" />
+<img src="profile/ascii-banner.svg" />
 
 *(Binary is temporary, code is forever.)*
 
