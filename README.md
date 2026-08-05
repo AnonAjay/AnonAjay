@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Pixel-font animated waving banner -->
-<img width="100%" src="profile/pixel-banner-animated.svg" />
+<img width="100%" src="profile/pixel-banner-animated.svg?v=2" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&pause=1000&color=B983FF&center=true&vCenter=true&width=750&size=14&lines=Agentic+AI+%7C+Security+Researcher;Full-Stack+%2B+ML+Engineer;Building+Viora+%7C+AgentShield+%7C+Rook;CSE+%40+2027)](https://git.io/typing-svg)
