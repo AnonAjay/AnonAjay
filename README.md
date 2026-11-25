@@ -22,7 +22,7 @@
 
 ## 🛡️ The Mission
 
-I'm a **relentless technology enthusiast** and CSE student operating at the intersection of **Agentic AI**, **Cybersecurity**, **Machine Learning**, and **Distributed Systems**. I thrive on high-friction challenges and turning complex patterns into robust, production-ready code.
+I'm a **relentless technology enthusiast** and CSE student operating at the intersection of **Agentic AI**, **Machine Learning**, and **Distributed Systems**. I thrive on high-friction challenges and turning complex patterns into robust, production-ready code.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=2" />
 
